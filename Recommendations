@@ -1,0 +1,29 @@
+## ✅ Recommendations for Improving Botium Toys’ Security Posture
+
+Based on the internal audit findings, the following actions are recommended to reduce risk and improve compliance:
+
+### 1. **Access Control**
+- Implement **Least Privilege**: Restrict access to sensitive customer data based on job role by following the principle of least privilege. It suggests the security is maximum when users are granted with minimal access to the data needed to perform daily tasks..
+- Apply **Separation of Duties**: Avoid single points of access and control for sensitive systems.
+
+### 2. **Data Protection**
+- Implement **data encryption** for stored and transmitted cardholder data to meet PCI DSS requirements making sure the customers data is secured and properly stored.
+- Classify and inventory sensitive data such as Personally and Sensitive Personally Identifiable Information I(PII/SPII) to support GDPR and SOC 2 standards.
+
+### 3. **Authentication & Password Management**
+- Strengthen the password policy to include complexity (e.g., 8+ characters, mix of letters, numbers, and symbols). To prevent any vulnerability.
+- Deploy a **centralized password management system** to enforce policy and reduce password reset issues.
+
+### 4. **Disaster Recovery & Backup**
+- Create a formal **disaster recovery plan** and test it periodically.
+- Set up **automatic, offsite backups** for critical systems and data recovery during incident events.
+
+### 5. **Threat Detection**
+- Install and configure an **Intrusion Detection System (IDS)** to identify suspicious activity in real time.
+
+### 6. **Regulatory Compliance**
+- Map controls to regulatory requirements such as **PCI DSS**, **GDPR**, and **SOC 1/2**.
+- Conduct regular internal and external audits, risk assessments, control assessments and update policies to reflect changes in the threat landscape and business continuity.
+
+### 🔒 Impact of Implementation
+These improvements will reduce Botium Toys’ risk exposure, improve incident preparedness, and demonstrate compliance with international standards, ultimately protecting customer trust and business continuity.
