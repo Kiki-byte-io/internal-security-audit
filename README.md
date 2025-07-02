@@ -56,10 +56,10 @@ This repository documents my internal security audit of the fictional company **
 
 ## 🗂️ Files
 
-- `controls-checklist.pdf`  
-- `compliance-checklist.pdf`  
+- `controls-and-compliance-checklist.pdf`
 - `recommendations.md`  
 - `self-assessment.md`
+- `report.pdf`
 
 ---
 
