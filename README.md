@@ -1,5 +1,7 @@
-# internal-security-audit
-An internal security audit of a simulated small business network for the Google Cybersecurity Certificate.
+<p align="center">
+  <img src="cover.png" alt="Cover Image" width="200"/>
+</p>
+
 # 🛡️ Internal Security Audit – Botium Toys
 
 This repository documents my internal security audit of the fictional company **Botium Toys**, conducted as part of the **Google Cybersecurity Certificate**.
