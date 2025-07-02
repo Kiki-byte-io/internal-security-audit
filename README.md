@@ -56,6 +56,7 @@ This repository documents my internal security audit of the fictional company **
 
 ## 🗂️ Files
 
+You can view the full checklist with comments and assessments [here- https://docs.google.com/document/d/1AX4e5ZsNH_64nrGxwZc8NBCkjI5x4rbdq501rxsKYVA/edit?usp=sharing]
 - `controls-and-compliance-checklist.pdf`
 - `recommendations.md`  
 - `self-assessment.md`
